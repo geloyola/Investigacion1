@@ -40,8 +40,6 @@ Para cambiar esta funcion a una funcion sin nombre o anonima lo hacemos asi:
 
 val producto = (n: Int) => (1 to n).product
 
-(n: Int) => representa los parámetros de entrada de la función
-(1 to n).product es el cuerpo de la función, que calcula el producto de los números de 1 a n.
 
 
 Bibliografia: 
